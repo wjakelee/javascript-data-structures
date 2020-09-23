@@ -1,4 +1,3 @@
-
 // node class used to create new nodes for a linked list
 class Node {
   constructor(data) {

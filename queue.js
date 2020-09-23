@@ -1,4 +1,4 @@
-const LinkedList = require("./DoublyLinkedList");
+const LinkedList = require("./SinglyLinkedList");
 
 // class Queue used to create a queue with an underlying linked list data structure
 class Queue {

@@ -1,4 +1,4 @@
-const LinkedList = require('./DoublyLinkedList');
+const LinkedList = require('./SinglyLinkedList');
 const Node = require('./Node');
 
 //Hashmap class that utilizes separate chaining for collisions

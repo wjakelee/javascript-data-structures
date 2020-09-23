@@ -1,4 +1,4 @@
-const LinkedList = require('./DoublyLinkedList');
+const LinkedList = require('./SinglyLinkedList');
 
 // class is used to create a stack with a linked list as the underlying structure
 class Stack {
